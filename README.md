@@ -6,7 +6,7 @@
 Artificial Intelligence (ML & Generative AI)
 Building innovative, impactful digital solutions
 🌱 I’m currently learning:
-Machine Learning with a focus on Generative AI
+Machine Learning with a focus on Generative AI,
 Agile methodologies (Scrum)
 
 💼 Projects:
