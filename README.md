@@ -1,6 +1,6 @@
 - 👋 Hi, 👋 Hi, I’m Hadil Arbi (@hadil56165M)
 🎓 Computer Science Engineering Student | 💡 Aspiring AI Developer
-🌍 Based in Tunisia, open to international collaboration & remote work
+🌍 Based in Tunisia, open to international collaborations & remote work
 
 👀 I’m passionate about:
 Artificial Intelligence (ML & Generative AI)
