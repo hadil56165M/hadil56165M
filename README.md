@@ -1,4 +1,4 @@
-- 👋 Hi, 👋 Hi, I’m Hadil Arbi (@hadil56165M)
+- 👋 Hi, I’m Hadil Arbi (@hadil56165M)
 
 🎓 Computer Science Engineering Student | 💡 Aspiring AI Developer
 
